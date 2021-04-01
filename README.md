@@ -1,5 +1,4 @@
-### Hi there 👋
-
+## Hi i'm a beginner Software Engineer
 <!--
 **black-fen1x/black-fen1x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
