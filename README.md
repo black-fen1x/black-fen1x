@@ -6,7 +6,7 @@ technologies and look for ways to improve myself in this rapidly changing indust
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=black-fen1x&show_icons=true&theme=radical)](https://github.com/black-fen1x) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=black-fen1x&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=black-fen1x&show_icons=true&theme=radical)](https://github.com/black-fen1x) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=black-fen1x&layout=compact&theme=radical)](https://github.com/black-fen1x)
 <!--
 **black-fen1x/black-fen1x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
