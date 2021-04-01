@@ -1,4 +1,8 @@
 ## Hi i'm a beginner Software Engineer
+#Summary
+My goal is to create systems that will have maximum reliability. I also understand the importance
+of creating highly readable and easily maintained source code. I am constantly striving to learn new
+technologies and look for ways to improve myself in this rapidly changing industry.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=black-fen1x&show_icons=true&theme=radical)](https://github.com/black-fen1x) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=black-fen1x&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
