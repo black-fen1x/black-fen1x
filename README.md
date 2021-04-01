@@ -1,6 +1,8 @@
 ## Hi i'm a beginner Software Engineer
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=black-fen1x)](https://github.com/black-fen1x)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=black-fen1x&count_private=true)
 <!--
 **black-fen1x/black-fen1x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
