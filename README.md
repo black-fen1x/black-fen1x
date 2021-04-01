@@ -1,5 +1,5 @@
 ## Hi i'm a beginner Software Engineer
-#Summary
+Summary
 My goal is to create systems that will have maximum reliability. I also understand the importance
 of creating highly readable and easily maintained source code. I am constantly striving to learn new
 technologies and look for ways to improve myself in this rapidly changing industry.
