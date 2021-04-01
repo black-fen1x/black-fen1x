@@ -1,6 +1,6 @@
 ## Hi i'm a beginner Software Engineer
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=black-fen1x&show_icons=true?hide=commits)](https://github.com/black-fen1x)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=black-fen1x&show_icons=true&hide=commits&theme=radical)](https://github.com/black-fen1x)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=black-fen1x&count_private=true)
 <!--
